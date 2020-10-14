@@ -2,7 +2,7 @@ Zmiana07
 Zmiana08
 <<<<<<< HEAD
 naprawa błędów - szybkie-001
-oraz
+=======
 dodano asystenta pomocy
 uproszczenie interfejsu graficznego
-latwaap
+>>>>>>> latwaap
