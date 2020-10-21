@@ -6,3 +6,4 @@ oraz
 dodano asystenta pomocy
 uproszczenie interfejsu graficznego
 latwaap
+Zmiana09
