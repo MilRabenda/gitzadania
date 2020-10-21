@@ -8,5 +8,3 @@ uproszczenie interfejsu graficznego
 latwaap
 Zmiana09
 Zmiana12
-Zmiana13
-
